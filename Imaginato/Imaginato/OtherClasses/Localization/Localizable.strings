@@ -1,0 +1,16 @@
+
+//Login Screen
+"login" = "Login";
+"email" = "Email";
+"password" = "Password";
+"Forgot Password?" = "Forgot Password?";
+
+//Login Validations
+
+"error_email" = "This is a invalid email.";
+"error_password" = "Passwords require at least 1 up percase, 1 lowercase, and 1 number.";
+"error_Network" = "Please connect to the internet!";
+"error_webServiceFail" = "Please try again later!";
+"success_login" = "Login successfully";
+"error_loginNotsuccess" = "Login not successfully";
+"message_Logout" = "Are you sure, you want to logout?";
